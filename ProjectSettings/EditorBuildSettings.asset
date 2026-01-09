@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/MainScene.unity
     guid: 99c9720ab356a0642a771bea13969a05
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 49d2cf7c2ba6e4da0a7f0f0aef0694ff, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1a81b63cffb5f424a943e1e2155dcd95, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: f612c38f4a1f94de2b059741722cbec9, type: 2}
   m_UseUCBPForAssetBundles: 0
